@@ -1,0 +1,20 @@
+Sales-Data-Pipeline/
+│
+├── data/
+│   ├── ventes.csv
+│   ├── produits.csv
+│   └── magasins.csv
+│
+├── Screenshots/
+│   ├── Ventes Visualisation.png
+│   └── KPI.png
+|    
+│
+│
+├── main.ipynb
+│
+├── requirements.txt
+│
+├── .gitignore
+│
+└── README.md

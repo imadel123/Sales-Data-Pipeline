@@ -1,0 +1,40 @@
+﻿produit_id,nom_produit,categorie
+1,Ordinateur portable,Informatique
+2,Souris sans fil,Accessoires
+3,Clavier mécanique,Accessoires
+4,Écran 24 pouces,Informatique
+5,Casque audio,Audio
+6,Imprimante,Bureautique
+7,Disque SSD 1To,Stockage
+8,Clé USB 64Go,Stockage
+9,Webcam HD,Informatique
+10,Haut-parleur Bluetooth,Audio
+11,Tablette,Informatique
+12,Smartphone,Téléphonie
+13,Chargeur USB-C,Téléphonie
+14,Câble HDMI,Accessoires
+15,Routeur Wi-Fi,Réseau
+16,Bureau,Mobilier
+17,Chaise de bureau,Mobilier
+18,Lampe LED,Éclairage
+19,Onduleur,Énergie
+20,Microphone,Audio
+21,Disque dur externe,Stockage
+22,Sacoche PC,Accessoires
+23,Projecteur,Bureautique
+24,Scanner,Bureautique
+25,Montre connectée,Téléphonie
+26,  Écouteurs Bluetooth  ,audio
+27,Support écran,Mobilier
+28,Batterie externe,Téléphonie
+29,Carte mémoire,Stockage
+30,Ventilateur USB,Accessoires
+,Produit sans identifiant,Divers
+32,,Informatique
+33,Produit catégorie vide,
+34,Produit test, informatique 
+35,Produit test,Informatique
+35,Produit test,Informatique
+ABC,Identifiant texte,Divers
+38,   ,Divers
+39,Article sans catégorie,
